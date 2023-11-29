@@ -1,0 +1,50 @@
+UNIT 1: Set Theory and Basics of Counting 
+
+Topics 
+
+Notations of set theory 
+Relations and operations on sets 
+Venn Diagrams  
+Set identities 
+Cardinality of sets and Principle of inclusion and exclusion (Laws of addition) 
+ 
+Learning Objectives 
+By the end of this Unit, you will be able to: 
+Identify set notations, types of sets, relations, and cardinality of sets. 
+Apply the basic operations of set theory and relations. 
+Create and interpret Venn Diagrams for real-world counting problems. 
+Apply set identities and principles of inclusion and exclusion (PIE) to solve problems. 
+ 
+Tasks 
+Read through the Learning Guide and the Reading Assignment 
+Complete the Discussion Assignment by posting in the Discussion Forum 
+Respond to three of your fellow classmates’ posts in the Discussion Forum 
+Complete and submit the Learning Journal 
+Take and submit the Self-Quiz 
+
+Introduction 
+The concept of sets is so fundamental that it unifies mathematics and its cognates. 
+The foundation of set theory was laid by the German Mathematician Georg Cantor in the later part of the 19th century. 
+Today, Cantor’s theory has penetrated almost all branches of Mathematics such as 
+Real analysis, Measure Theory, Number Theory, Information Theory, and Artificial Intelligence. 
+The concepts of sets revolutionize our mathematical thinking and enable us to express ourselves concisely and clearly.   
+In this unit, you will be introduced to basic mathematical sets, notations, operations, identities, and 
+their applications. You will also learn the applications of set theory to counting. 
+
+Reading Assignment 
+As you read through the learning resource consider the following: 
+How helpful are the notations and special sets while writing the expressions mathematically? 
+How do you interpret the relations on sets, operations on sets, and counting using Venn diagrams? 
+
+Read: 
+
+1. Doerr, A., & Levasseur, K. (2022). Applied discrete structures (3rd ed.). licensed under CC BY-NC-SA 
+In Chapter 4, More on Sets, you need to learn section 4.2, Laws of Set Theory (p. 80). Ensure that you go through all the topics including the proofs and solving the questions in the exercises. 
+Please note: You can refer to Appendix D towards the end of the textbook for hints and solutions to most of the exercise questions. 
+ 
+2. Levin, O. (2021). Discrete mathematics: An open introduction (3rd ed.). licensed under CC 4.0 
+In Chapter 0, Introduction and Preliminaries, you need to learn section 0.3, Sets (p.24) which covers the topics of Notation, Relationships Between Sets, Operations on Sets, and Venn Diagrams. Ensure that you go through these topics including the examples and solving the questions in the exercises. 
+In Chapter 1, Counting, you need to learn section 1.1, Additive and Multiplicative Principles (p.57) which covers the topics Counting with Sets, and Principle of Inclusion and Exclusion. Ensure that you go through these topics including the examples and solving the questions in the exercises. 
+Please note: You can refer to Appendix A and B towards the end of the textbook for hints and solutions to most of the exercise questions. 
+
+ 
